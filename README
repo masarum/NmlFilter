@@ -1,0 +1,14 @@
+# NmlFilter
+
+My attempt to learn Clojure!
+Parses a Traktor NML and pretty-prints a track listing.
+
+## Usage
+
+java -jar NmlFilter-1.0.0-SNAPSHOT-standalone.jar <NML path>
+
+## License
+
+Copyright (C) 2011 Masaru Morikawa
+
+Distributed under the Eclipse Public License, the same as Clojure.
